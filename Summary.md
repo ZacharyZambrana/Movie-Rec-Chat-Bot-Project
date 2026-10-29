@@ -1,0 +1,2 @@
+# Project Summary
+- For this project I will be creating a movie recommendation chatbot. The model I will be using is meta-llama/Llama-3.1-8B-Instruct. Big enough to handle the scope but small enough to run on my local machine. I will be using IMDB's data through a vector database and have my model query this via a RAG pipeline to provide the appropriate context. I will use ChromaDB for this. I will also try and create a UI to interface with the model locally likely through streamlit. 
